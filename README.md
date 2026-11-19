@@ -1,2 +1,2 @@
 # time_capitals
-Script to see the time in diffrent captial cities in Australia
+Script to see the time in different captial cities in Australia
